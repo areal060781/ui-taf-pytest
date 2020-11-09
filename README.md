@@ -1,5 +1,14 @@
 ## Basic Testing Framework
 
+Aa simple automation framework. Goals covered:
+
+1. Design of Features & Scenarios.
+2. Test Execution Report Structure.
+3. Automation Layers Organization.
+4. Handling of Test Data.
+5. Quality of In-Code Documentation.
+6. Code Reusability and Maintainability.
+
 ### Requirements
 * Python 3.8
 * Pipenv
