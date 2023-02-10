@@ -14,6 +14,3 @@ pytest = "*"
 requests = "*"
 allure-pytest = "*"
 pytest-selenium = "*"
-
-[requires]
-python_version = "3.8"
