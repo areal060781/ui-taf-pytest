@@ -8,9 +8,11 @@ selenium = "*"
 httpie = "*"
 faker = "*"
 coverage = "*"
+appium-python-client = "*"
 pytest = "*"
 
 [packages]
 requests = "*"
 allure-pytest = "*"
 pytest-selenium = "*"
+pytest-html = "*"
