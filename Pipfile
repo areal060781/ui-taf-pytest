@@ -4,15 +4,14 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+
+[packages]
 selenium = "*"
-httpie = "*"
+requests = "*"
+pytest = "*"
 faker = "*"
 coverage = "*"
 appium-python-client = "*"
-pytest = "*"
-
-[packages]
-requests = "*"
-allure-pytest = "*"
 pytest-selenium = "*"
 pytest-html = "*"
+allure-pytest = "*"
