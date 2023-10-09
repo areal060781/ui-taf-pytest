@@ -6,12 +6,6 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-selenium = "*"
-requests = "*"
 pytest = "*"
-faker = "*"
-coverage = "*"
 appium-python-client = "*"
-pytest-selenium = "*"
-pytest-html = "*"
 allure-pytest = "*"
